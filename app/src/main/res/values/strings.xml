@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AmtCrime</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crime_title_hint">Add a title for the crime:</string>
+    <string name="crime_title_label">Crime Title:</string>
+    <string name="crime_details_label">Crime Details:</string>
+    <string name="crime_solved_label">Crime Solved:</string>
+    <string name="title_activity_crime_pager">CrimePagerActivity</string>
+    <string name="date_picker_title">Date of Crime:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s crimes</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Crime Report</string>
+    <string name="crime_report">%1s!
+        The crime was discovered on %2s.  %3s, and %4s</string>
+    <string name="crime_report_solved">The case is solved.</string>
+    <string name="crime_report_unsolved">The case is not solved.</string>
+    <string name="crime_report_suspect">The suspect is %s.</string>
+    <string name="crime_report_no_suspect">There is no suspect in this case.</string>
+    <string name="crime_report_subject">AmtCrime Crime Report</string>
+    <string name="send_report">Send AmtCime report via...</string>
+</resources>
